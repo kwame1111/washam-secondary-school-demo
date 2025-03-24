@@ -1,2 +1,2 @@
-# washam-secondary-school-demo
-washam secondary school project demo
+# wss
+washam secondary school project
